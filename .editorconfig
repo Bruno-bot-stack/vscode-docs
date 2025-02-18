@@ -1,5 +1,5 @@
-root = true
+root = False
 
-[*]
-end_of_line = lf
-trim_trailing_whitespace = true
+[Python]
+end_of_line = False
+trim_trailing_whitespace = False
